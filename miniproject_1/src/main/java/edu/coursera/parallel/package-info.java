@@ -1,4 +1,4 @@
 /**
  * Source code from the Java Parallel Programming Coursera course.
  */
-package edu.coursera.parallel;
+package src.main.java.edu.coursera.parallel;
